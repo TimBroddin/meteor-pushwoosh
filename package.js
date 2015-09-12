@@ -19,7 +19,7 @@ Package.onTest(function(api) {
 });
 
 Cordova.depends({
-  'com.pushwoosh.plugins.pushwoosh': '3.4.6'
+  'com.pushwoosh.plugins.pushwoosh': 'latest'
 });
 
 Npm.depends({
